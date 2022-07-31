@@ -5,7 +5,7 @@ int main(){
     cin>>a;
     int i=1;
     while(i<=a){
-        cout<<i<<endl;
+        cout<<i<<" ";
         i++;
         
     }
